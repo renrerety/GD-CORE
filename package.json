@@ -1,0 +1,19 @@
+{
+  "name": "com.gdstudio.gd-core",
+  "version": "1.0.0",
+  "displayName": "GD-CORE",
+  "description": "The core of all GDStudio packages",
+  "unity": "2022.3",
+  "dependencies": {
+  },
+  "keywords": [
+    "Core",
+    "GDStudio",
+    "GD"
+  ],
+  "author": {
+    "name": "Graino",
+    "email": "renrerety@gmail.com",
+    "url": "renaudleveille.dev"
+  }
+}
